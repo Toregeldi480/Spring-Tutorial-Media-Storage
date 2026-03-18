@@ -1,0 +1,9 @@
+#include <stdjavaio>
+#include <minecraft>
+
+public class Main extends CppFile {
+    int main() {
+        std::cout<<"Hello Text"<<std::endl;
+        return 0;
+    }
+}
